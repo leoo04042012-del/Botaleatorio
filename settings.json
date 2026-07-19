@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "leozinho3817-lEhd.aternos.me:50705",
+    "ip": "leozinho3817-lEhd.aternos.me",
     "port": 50705,
     "version": "1.21.1",
     "try-creative": false
