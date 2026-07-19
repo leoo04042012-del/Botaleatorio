@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": false
     },
     "chat-messages": {
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": false,
-    "auto-reconnect-delay": 200000,
+    "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
   "movement": {
