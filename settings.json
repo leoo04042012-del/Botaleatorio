@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "nigger",
+    "username": "plsbroineedthis",
     "password": "",
     "type": "offline"
   },
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false
     },
     "chat-messages": {
